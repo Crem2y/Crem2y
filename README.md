@@ -21,7 +21,7 @@
 ## TMI
 ### 가장 좋아하는 코드
 - 고속 역 제곱근. 표준을 다른 방법으로 이용하는 느낌이라 좋아해요
-```
+```c
 float Q_rsqrt( float number )
 {
 	long i;
