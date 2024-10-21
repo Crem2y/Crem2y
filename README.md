@@ -2,12 +2,12 @@
 - 저는 크렘티(Crem2y)입니다.
 - FW 엔지니어이고, HW는 취미 레벨로 하는 정도입니다.
 
-## 관심사
+## 관심사 💡
 - MCU FW
 - HW (PCB artwork, schematics, etc.)
 - Linux
 
-## 경험
+## 경험 ✈️
 ### 많이 써본 것들 (> 1년)
 - 언어 : C, Python
 - MCU : ATmega, STM32
@@ -23,7 +23,7 @@
 - 통신 : Wi-Fi, Ethernet
 - 기타 툴 : Docker
 
-## TMI
+## TMI 💤
 ### 가장 좋아하는 코드
 - 고속 역 제곱근. 표준을 다른 방법으로 이용하는 느낌이라 좋아해요
 ```c
