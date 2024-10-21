@@ -8,21 +8,30 @@
 - Linux
 
 ## 경험 ✈️
-### 많이 써본 것들 (> 1년)
-- 언어 : C, Python
-- MCU : ATmega, STM32
-- 통신 : RS-232, RS-485
-- HW 설계 툴 : EasyEDA
-- RaspBerry Pi (4B 소지중. Wol, 게임 서버, 채팅 봇 등으로 사용)
-### 조금 써본 것들 (< 1년)
-- 언어 : java
-- MCU : nRF52, ESP32, RP2040
-- 통신 : BLE
-- HW 설계 툴 : Altium
-- 기타 툴 : WireShark
-### 거의 안써본 것들 (< 3개월)
-- 통신 : Wi-Fi, Ethernet
-- 기타 툴 : Docker
+### 사용해본 것들 (많이 써본 순서)
+- 언어
+  - C
+  - Python
+  - java
+- MCU
+  - ATmega
+  - STM32
+  - nRF52
+  - ESP32
+  - RP2040
+- 통신
+  - RS-232
+  - RS-485
+  - BLE
+  - Ethernet
+- 개발 보드 (MPU)
+  - RaspBerry Pi (4B 소지중. Wol, 게임 서버, 채팅 봇 등으로 사용)
+- HW 설계 툴
+  - EasyEDA
+  - Altium
+- 기타 툴
+  - WireShark
+  - Docker
 
 ## TMI 💤
 ### 가장 좋아하는 코드
