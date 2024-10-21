@@ -12,7 +12,10 @@
 - 언어
   - C
   - Python
-  - java
+  - Java
+  - C++
+  - Lua
+  - JavaScript
 - MCU
   - ATmega
   - STM32
@@ -29,6 +32,7 @@
 - HW 설계 툴
   - EasyEDA
   - Altium
+  - PADS
 - 기타 툴
   - WireShark
   - Docker
