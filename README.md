@@ -13,6 +13,7 @@
 - MCU : ATmega, STM32
 - 통신 : RS-232, RS-485
 - HW 설계 툴 : EasyEDA
+- RaspBerry Pi (4B 소지중. Wol, 게임 서버, 채팅 봇 등으로 사용)
 ### 조금 써본 것들 (< 1년)
 - 언어 : java
 - MCU : nRF52, ESP32, RP2040
