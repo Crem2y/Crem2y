@@ -1,9 +1,11 @@
 ## 안녕하세요! 👋
-저는 크렘티(Crem2y)입니다.
+- 저는 크렘티(Crem2y)입니다.
+- FW 엔지니어이고, HW는 취미 레벨로 하는 정도입니다.
 
 ## 관심사
 - MCU FW
 - HW (PCB artwork, schematics, etc.)
+- Linux
 
 ## 경험
 ### 많이 써본 것들 (> 1년)
@@ -12,11 +14,14 @@
 - 통신 : RS-232, RS-485
 - HW 설계 툴 : EasyEDA
 ### 조금 써본 것들 (< 1년)
+- 언어 : java
 - MCU : nRF52, ESP32, RP2040
 - 통신 : BLE
 - HW 설계 툴 : Altium
+- 기타 툴 : WireShark
 ### 거의 안써본 것들 (< 3개월)
 - 통신 : Wi-Fi, Ethernet
+- 기타 툴 : Docker
 
 ## TMI
 ### 가장 좋아하는 코드
