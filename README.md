@@ -20,8 +20,8 @@
     - STM32
     - nRF52
   - Other Core
-    - ATmega
-    - ESP32
+    - ATmega (AVR)
+    - ESP32 (RISC-V)
 - 통신
   - RS-232, RS-485
   - BLE
