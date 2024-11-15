@@ -10,25 +10,22 @@
 ## 경험 ✈️
 ### 사용해본 것들 (많이 써본 순서)
 - 언어
-  - C
+  - C, C++
   - Python
-  - Java
-  - C++
   - Lua
-  - JavaScript
+  - 등등..
 - MCU
-  - ATmega
-  - STM32
-  - nRF52
-  - ESP32
-  - RP2040
+  - ARM Cortex-M
+    - RP2040, RP2350
+    - STM32
+    - nRF52
+  - Other Core
+    - ATmega
+    - ESP32
 - 통신
-  - RS-232
-  - RS-485
+  - RS-232, RS-485
   - BLE
   - Ethernet
-- 개발 보드 (MPU)
-  - RaspBerry Pi (4B 소지중. Wol, 게임 서버, 채팅 봇 등으로 사용)
 - HW 설계 툴
   - EasyEDA
   - Altium
