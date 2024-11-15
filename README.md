@@ -17,7 +17,7 @@
 - MCU
   - ARM Cortex-M
     - RP2040, RP2350
-    - STM32
+    - STM32 (F0, F1, F4)
     - nRF52
   - Other Core
     - ATmega (AVR)
