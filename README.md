@@ -21,3 +21,4 @@
 ## 🚀 Projects
 
 - [rpi-pico-sample-project](https://github.com/Crem2y/rpi-pico-sample-project)
+- [giantHornet](https://github.com/OProcessing/giantHornet)
