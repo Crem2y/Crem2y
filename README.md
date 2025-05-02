@@ -21,4 +21,5 @@
 ## 🚀 Projects
 
 - [rpi-pico-sample-project](https://github.com/Crem2y/rpi-pico-sample-project)
+- [pico-console](https://github.com/Crem2y/pico-console)
 - [giantHornet](https://github.com/OProcessing/giantHornet)
