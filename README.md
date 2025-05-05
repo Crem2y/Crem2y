@@ -26,4 +26,6 @@
 - RP2040/RP2350
   - [rpi-pico-sample-project](https://github.com/Crem2y/rpi-pico-sample-project)
   - [pico-console](https://github.com/Crem2y/pico-console)
-- [giantHornet](https://github.com/OProcessing/giantHornet)
+- Others
+  - [CKP_v1](https://github.com/Crem2y/CKP_v1)
+  - [giantHornet](https://github.com/OProcessing/giantHornet)
