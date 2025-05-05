@@ -10,7 +10,7 @@
 
 - **Languages**: C, C++, Python, Lua
 - **MCUs**:
-  - ARM Cortex-M: RP2040, RP2350, STM32 (F0, F1, F4, F7), nRF52
+  - ARM Cortex-M: RP2040(M0), RP2350(M33), STM32(F0, F1, F4, F7), nRF52(M4)
   - Others: ATmega (AVR), ESP32 (RISC-V)
 - **Communication**: RS-232, RS-485, BLE, Ethernet
 - **Hardware Tools**: EasyEDA, Altium, PADS
