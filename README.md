@@ -21,7 +21,7 @@
 ## 🚀 Projects
 
 - SCK (Super Custom Keyboard)
-  - [SCK_V1_main](https://github.com/Crem2y/SCK_V1_main)
+  - [SCK_main](https://github.com/Crem2y/SCK_main)
   - [SCK_modules](https://github.com/Crem2y/SCK_modules)
 - RP2040/RP2350
   - [rpi-pico-sample-project](https://github.com/Crem2y/pico-sample-project)
