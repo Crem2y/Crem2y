@@ -21,8 +21,8 @@
 ## Projects
 
 - SCK (Super Custom Keyboard)
-  - [SCK_main](https://github.com/Crem2y/SCK_main)
-  - [SCK_modules](https://github.com/Crem2y/SCK_modules)
+  - [super-custom-keyboard](https://github.com/Crem2y/super-custom-keyboard)
+  - [SCK_main](https://github.com/Crem2y/SCK_main) (super-custom-keyboard로 통합)
 - RP2 Practice
   - [rpi-pico-sample-project](https://github.com/Crem2y/pico-sample-project)
   - [pico-console](https://github.com/Crem2y/pico-console)
