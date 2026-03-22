@@ -27,6 +27,7 @@
   - [rpi-pico-sample-project](https://github.com/Crem2y/pico-sample-project)
   - [pico-console](https://github.com/Crem2y/pico-console)
   - [rp2040_test_board](https://github.com/Crem2y/rp2040_test_board)
+  - [pico-console-v2](https://github.com/Crem2y/pico-console-v2)
 - Others
   - [CKP_v1](https://github.com/Crem2y/CKP_v1)
   - [giantHornet](https://github.com/OProcessing/giantHornet) (with [OProcessing](https://github.com/OProcessing))
