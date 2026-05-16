@@ -39,6 +39,8 @@
 ---
 
 ### Hardware Platforms
+- [rp2350a_main_board](https://github.com/Crem2y/rp2350a_main_board)
+  - RP2350A-based modular embedded system main board
 - [pico-console-v2-pcb](https://github.com/Crem2y/pico-console-v2-pcb)
   - Custom dual-RP2350 handheld console PCB platform
 - [rp2350a_test_board](https://github.com/Crem2y/rp2350a_test_board)
