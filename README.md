@@ -31,6 +31,8 @@
 - [pico-console-v2](https://github.com/Crem2y/pico-console-v2)
   - Bare-metal handheld game console firmware platform built with dual RP2350 MCUs
   - Custom middleware, bridge protocol, audio system, and device architecture
+  - [pico-console-v2-gb](https://github.com/Crem2y/pico-console-v2-gb)
+    - A Game Boy emulator for the Pico Console V2 platform.
 - [pico-console](https://github.com/Crem2y/pico-console)
   - First-generation RP2040 handheld console platform
 - [super-custom-keyboard](https://github.com/Crem2y/super-custom-keyboard)
