@@ -2,61 +2,54 @@
 
 안녕하세요! 저는 Crem2y(크렘티)입니다.
 
-임베디드 시스템을 중심으로 펌웨어 개발을 하고 있으며, 필요한 경우 직접 하드웨어를 설계하며 프로젝트를 개발하고 있습니다.
+임베디드 시스템을 중심으로 펌웨어를 개발하고 있으며, 필요에 따라 직접 하드웨어도 설계합니다.
 
-로우레벨 프로그래밍, 커스텀 프로토콜, MCU 기반 시스템 설계에 관심이 많습니다.
+로우레벨 프로그래밍, 커스텀 프로토콜, MCU 기반 시스템 설계를 주로 다룹니다.
 
----
+## Featured Projects
+
+### Pico Console V2
+- [pico-console-v2](https://github.com/Crem2y/pico-console-v2)
+  - Dual-RP2350 bare-metal handheld platform with custom firmware and hardware.
+  - Layered firmware architecture, bridge protocol, graphics, audio, input, storage, and sensors.
+  - **Hardware**: [Main Board](https://github.com/Crem2y/rp2350a_main_board) · [Console PCB](https://github.com/Crem2y/pico-console-v2-pcb)
+  - **Applications**: [Game Boy Emulator](https://github.com/Crem2y/pico-console-v2-gb) · [MIDI Player](https://github.com/Crem2y/pico-console-v2-midi)
+
+### Super Custom Keyboard
+- [super-custom-keyboard](https://github.com/Crem2y/super-custom-keyboard)
+  - Modular custom keyboard platform with custom firmware and hardware.
+  - Distributed MCU modules connected over I²C.
+
+### Graphic Preview
+- [graphic-preview](https://github.com/Crem2y/graphic-preview)
+  - VS Code extension for previewing embedded bitmap/image data directly from C/C++ arrays.
 
 ## Skills & Tools
 
+### Embedded Software
+- Bare-metal firmware
+- MCU-based system architecture
+- Device drivers and middleware
+- Custom communication protocols
+
+### Hardware
+- PCB and circuit design
+- Board bring-up and debugging
+- **EDA Tools**: KiCad, Altium, PADS, EasyEDA
+
+### Languages, Platforms & Tools
 - **Languages**: C, C++, Python, Lua
-- **Embedded Systems**:
-  - Bare-metal Firmware
-  - Embedded Linux
-  - Custom Protocol Design
-  - MCU-based System Development
-- **MCUs**:
-  - ARM Cortex-M: RP2 (RP2040, RP2350), STM32 (F0, F1, F4, F7), nRF52
-  - Others: ATmega , ESP32
-- **Communication**: RS-232, RS-485, BLE, Ethernet
-- **Hardware Tools**: Kicad, Altium, PADS, EasyEDA
-- **Others**: Wireshark, Docker, Git, CMake
+- **MCUs**: RP2040/RP2350, STM32, nRF52, AVR, ESP32
+- **Communication**: UART, SPI, I²C, RS-232, RS-485, BLE, Ethernet
+- **Tools**: Git, CMake, Wireshark, Docker
 
----
-
-## Projects
-
-### Embedded Systems
-- [pico-console-v2](https://github.com/Crem2y/pico-console-v2)
-  - Bare-metal handheld game console firmware platform built with dual RP2350 MCUs
-  - Custom middleware, bridge protocol, audio system, and device architecture
-  - [pico-console-v2-gb](https://github.com/Crem2y/pico-console-v2-gb)
-    - A Game Boy emulator for the Pico Console V2 platform.
-- [pico-console](https://github.com/Crem2y/pico-console)
+## Other Projects
+- [Pico Console V1](https://github.com/Crem2y/pico-console)
   - First-generation RP2040 handheld console platform
-- [super-custom-keyboard](https://github.com/Crem2y/super-custom-keyboard)
-  - Modular custom keyboard platform with custom firmware and hardware design
 
----
+## Links
 
-### Hardware Platforms
-- [rp2350a_main_board](https://github.com/Crem2y/rp2350a_main_board)
-  - RP2350A-based modular embedded system main board
-- [pico-console-v2-pcb](https://github.com/Crem2y/pico-console-v2-pcb)
-  - Custom dual-RP2350 handheld console PCB platform
-- [rp2350a_test_board](https://github.com/Crem2y/rp2350a_test_board)
-  - RP2350A evaluation and hardware verification board
-- [rp2040_test_board](https://github.com/Crem2y/rp2040_test_board)
-  - RP2040 evaluation and peripheral test platform
-- [rpi-pico-sample-project](https://github.com/Crem2y/pico-sample-project)
-  - RP2040/RP2 software architecture and peripheral experimentation project
-
----
-
-### Experimental / Misc
-
-- [CKP_v1](https://github.com/Crem2y/CKP_v1)
-  - Custom hardware prototype project
-- [giantHornet](https://github.com/OProcessing/giantHornet)
-  - Toy project developed with [OProcessing](https://github.com/OProcessing)
+<!--
+- YouTube
+-->
+- [Ko-fi](https://ko-fi.com/crem2y)
