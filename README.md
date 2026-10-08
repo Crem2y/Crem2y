@@ -24,6 +24,11 @@
 - [graphic-preview](https://github.com/Crem2y/graphic-preview)
   - VS Code extension for previewing embedded bitmap/image data directly from C/C++ arrays.
 
+### Logue-like
+- [logue-like](https://github.com/Crem2y/logue-like)
+  - A lightweight, turn-based roguelike inspired by the original Rogue.
+  - Features limited-information gameplay and a portable game core with separated simulation, dungeon generation, and rendering.
+
 ## Skills & Tools
 
 ### Embedded Software
