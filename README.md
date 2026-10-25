@@ -9,12 +9,12 @@
 ## Featured Projects
 
 ### Pico Console V2
-- [Showcase (youtube)](https://youtu.be/UDwyUTwtObc)
 - [pico-console-v2](https://github.com/Crem2y/pico-console-v2)
   - Dual-RP2350 bare-metal handheld platform with custom firmware and hardware.
   - Layered firmware architecture, bridge protocol, graphics, audio, input, storage, and sensors.
   - **Hardware**: [Main Board](https://github.com/Crem2y/rp2350a_main_board) · [Console PCB](https://github.com/Crem2y/pico-console-v2-pcb)
   - **Applications**: [Game Boy Emulator](https://github.com/Crem2y/pico-console-v2-gb) · [MIDI Player](https://github.com/Crem2y/pico-console-v2-midi)
+  - [Showcase (youtube)](https://youtu.be/UDwyUTwtObc)
 
 ### Super Custom Keyboard
 - [super-custom-keyboard](https://github.com/Crem2y/super-custom-keyboard)
