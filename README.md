@@ -23,6 +23,7 @@
 
 ### Graphic Preview
 - [graphic-preview](https://github.com/Crem2y/graphic-preview)
+  - [See at VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Crem2y.c-array-image-preview)
   - VS Code extension for previewing embedded bitmap/image data directly from C/C++ arrays.
 
 ### Logue-like
