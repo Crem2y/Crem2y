@@ -21,9 +21,9 @@
   - Modular custom keyboard platform with custom firmware and hardware.
   - Distributed MCU modules connected over I²C.
 
-### Graphic Preview
-- [graphic-preview](https://github.com/Crem2y/graphic-preview)
-  - [See at VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Crem2y.c-array-image-preview)
+### C Array Image Preview
+- [c-array-image-preview](https://github.com/Crem2y/graphic-preview)
+  - [View on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Crem2y.c-array-image-preview)
   - VS Code extension for previewing embedded bitmap/image data directly from C/C++ arrays.
 
 ### Logue-like
